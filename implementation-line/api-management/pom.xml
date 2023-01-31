@@ -13,11 +13,11 @@
 	<name>API management application (bounded context)</name>
 
 	<modules>
-		<module>domain-model</module>
-		<module>translator</module>
-		<module>adapter</module>
-		<module>service</module>
-		<module>ui</module>
-		<module>system</module>
+		<module>api-mgt-domain-model</module>
+		<module>api-mgt-translator</module>
+		<module>api-mgt-adapter</module>
+		<module>api-mgt-service</module>
+		<module>api-mgt-ui</module>
+		<module>api-mgt-system</module>
 	</modules>
 </project>
