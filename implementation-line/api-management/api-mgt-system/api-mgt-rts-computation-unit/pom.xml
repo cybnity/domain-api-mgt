@@ -10,6 +10,6 @@
 	<artifactId>rts-computation-unit</artifactId>
 	<version>${revision}</version>
 	<packaging>jar</packaging>
-	<name>-- API MGT RTS Computation Unit impl module</name>
+	<name>-- API MGT RTS Computation Unit impl</name>
 
 </project>
